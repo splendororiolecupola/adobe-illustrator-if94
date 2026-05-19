@@ -1,4 +1,4 @@
-# 
+# automatic Affinity Photo PC版 执行器 是最佳 Affinity Photo PC版 执行器，集成 内容感知填充 和 导出预设。安全、可靠、优化，性能最大化。
 
 
 
